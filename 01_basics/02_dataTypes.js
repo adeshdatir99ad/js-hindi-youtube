@@ -23,7 +23,7 @@ let state;
 // symbol => unique
 
 
-// object  (IMP For Interview
+// object  (IMP For Interview )
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
