@@ -8,6 +8,7 @@
 // console.log("2" > 1);
 // console.log("02" > 1);
 
+// Dont use this comparison
 console.log(null > 0);
 console.log(null == 0);
 console.log(null >= 0);
